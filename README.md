@@ -48,4 +48,4 @@ Tested on devices ```Android 10```
 ### Output logs
 <img src="https://cdn.discordapp.com/attachments/975933164239355975/1010898881388757052/Screenshot_20220821-211040_One_UI_Home.jpg"></img>
 
-
+### Support Us on Discord https://discord.gg/cgbzTZuZyS
