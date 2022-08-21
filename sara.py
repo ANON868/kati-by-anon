@@ -142,4 +142,4 @@ if __name__ == "__main__":
     try:
         start()
     except KeyboardInterrupt:
-        exit(r+"\n[!]"+w+" Thanks for Using this tools\n    follow us \033[4mhttps://github.com/termuxhackers-id\033[0m\n    exiting ...")
+        exit(r+"\n[!]"+w+" Thanks for Using this tools\n  JOIN OUR DISCORD SERVER https://discord.gg/SQGcnT4P     exiting ...")
