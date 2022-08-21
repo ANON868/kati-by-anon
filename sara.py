@@ -27,7 +27,7 @@ def banner():
     print(w+d+"    ((((("+w+b+",r@@@@@@@@@@e,"+w+d+")))))")
     print(w+d+"      ((("+w+b+"@@@@@@@@@@@@@@@@"+w+d+")))    "+w+b+"SARA - version 1.0")
     print(w+b+"      \@@/"+r+",:::,"+w+b+"\/"+r+",:::,"+w+b+"\@@       "+w+"------------------")
-    print(w+b+"     /@@@|"+r+":::::"+w+b+"||"+r+":::::"+w+b+"|@@@\\     "+w+"Author by "+y+"@termuxhackers.id")
+    print(w+b+"     /@@@|"+r+":::::"+w+b+"||"+r+":::::"+w+b+"|@@@\\     "+w+"Author by "+y+"@ANON NA POGI")
     print(w+b+"    / @@@\\"+r+"':::'"+w+b+"/\\"+r+"':::'"+w+b+"/@@@ \\    "+w+"The author is not responsible")
     print(w+b+"   /  /@@@@@@@//\\\@@@@@@@\  \\   "+w+"for any issues or damage")
     print(w+b+"  (  /  '@@@@@====@@@@@'  \  )  "+w+"caused by this program")
