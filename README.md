@@ -38,7 +38,7 @@ Tutorial on Termux Android [watch here](https://youtu.be/poXKCgaBg3c)
   - Pillow
 
 ### Tools overview
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/view.jpg"></img>
+<img src="https://cdn.discordapp.com/attachments/975933164239355975/1010890783165001848/view.jpg"></img>
 Need root access for ```Termux Android```
 
 ### Ransomware overview
