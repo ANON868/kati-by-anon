@@ -22,7 +22,7 @@ Quick installation for Termux Android (ROOT)
 ````bash
 apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/R1punk/SARA && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
 ````
-#### Sara for Termux by [@R1punk](https://github.com/R1punk/SARA)
+#### KATI for Termux by [@ANON#0001](https://github.com/R1punk/SARA)
 Tutorial on Termux Android [watch here]( STILL FIX)
 
 ### Dependencies
