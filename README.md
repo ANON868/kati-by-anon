@@ -22,7 +22,7 @@ Quick installation for Linux/Parrot Os (ROOT)
 ````bash
 apt-get install tsu git imagemagick python -y && python3 -m pip install Pillow && git clone https://github.com/R1punk/SARA && cd SARA && tsu && bash installtermux.sh && python3 tehsara.py
 ````
-#### KATI for Termux by [@ANON#0001](https://github.com/R1punk/SARA)
+#### KATI for Termux by [6kgin](https://github.com/R1punk/SARA)
 Tutorial on linux/parrot os [watch here]( STILL FIX)
 
 ### Dependencies
@@ -48,4 +48,4 @@ Tested on devices ```Android 10```
 ### Output logs
 <img src="https://cdn.discordapp.com/attachments/975933164239355975/1010898881388757052/Screenshot_20220821-211040_One_UI_Home.jpg"></img>
 
-### Support Us on Discord https://discord.gg/cgbzTZuZyS
+### Support Us on Discord [https://discord.gg/n8dCEapqj5)
